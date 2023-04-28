@@ -1,6 +1,6 @@
 # Blackjack-py
 
-Blackjack in Python
+Blackjack in Python (https://en.wikipedia.org/wiki/Blackjack)
 
 The game is written in Python using Jupyter Notebook to train on Python programming skills.
 
